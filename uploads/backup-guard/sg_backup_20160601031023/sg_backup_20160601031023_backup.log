@@ -1,0 +1,94 @@
+Date: 2016-06-01 03:10
+SG Backup version: 1.1.1
+OS: Linux
+Server: Apache
+User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.63 Safari/537.36
+PHP version: 5.4.45
+SAPI: cgi-fcgi
+Codepage: C
+Int size: 8
+Int lib: bcmath
+Memory limit: 256M
+Max execution time: 300
+Environment: Wordpress 4.5.2
+Backup type: 
+
+2016-06-01 03:10: Start backup
+2016-06-01 03:10: Start backup database
+2016-06-01 03:10: Total tables to backup: 32
+2016-06-01 03:10: Total rows to backup: 872
+2016-06-01 03:10: Start backup table: wpyn_commentmeta
+2016-06-01 03:10: End backup table: wpyn_commentmeta
+2016-06-01 03:10: Start backup table: wpyn_comments
+2016-06-01 03:10: End backup table: wpyn_comments
+2016-06-01 03:10: Start backup table: wpyn_create_map
+2016-06-01 03:10: End backup table: wpyn_create_map
+2016-06-01 03:10: Start backup table: wpyn_gmwd_circles
+2016-06-01 03:10: End backup table: wpyn_gmwd_circles
+2016-06-01 03:10: Start backup table: wpyn_gmwd_maps
+2016-06-01 03:10: End backup table: wpyn_gmwd_maps
+2016-06-01 03:10: Start backup table: wpyn_gmwd_mapstyles
+2016-06-01 03:10: End backup table: wpyn_gmwd_mapstyles
+2016-06-01 03:10: Start backup table: wpyn_gmwd_markercategories
+2016-06-01 03:10: End backup table: wpyn_gmwd_markercategories
+2016-06-01 03:10: Start backup table: wpyn_gmwd_markers
+2016-06-01 03:10: End backup table: wpyn_gmwd_markers
+2016-06-01 03:10: Start backup table: wpyn_gmwd_options
+2016-06-01 03:10: End backup table: wpyn_gmwd_options
+2016-06-01 03:10: Start backup table: wpyn_gmwd_polygons
+2016-06-01 03:10: End backup table: wpyn_gmwd_polygons
+2016-06-01 03:10: Start backup table: wpyn_gmwd_polylines
+2016-06-01 03:10: End backup table: wpyn_gmwd_polylines
+2016-06-01 03:10: Start backup table: wpyn_gmwd_rectangles
+2016-06-01 03:10: End backup table: wpyn_gmwd_rectangles
+2016-06-01 03:10: Start backup table: wpyn_gmwd_shortcodes
+2016-06-01 03:10: End backup table: wpyn_gmwd_shortcodes
+2016-06-01 03:10: Start backup table: wpyn_gmwd_themes
+2016-06-01 03:10: End backup table: wpyn_gmwd_themes
+2016-06-01 03:10: Start backup table: wpyn_group_map
+2016-06-01 03:10: End backup table: wpyn_group_map
+2016-06-01 03:10: Start backup table: wpyn_huge_itslider_images
+2016-06-01 03:10: End backup table: wpyn_huge_itslider_images
+2016-06-01 03:10: Start backup table: wpyn_huge_itslider_params
+2016-06-01 03:10: End backup table: wpyn_huge_itslider_params
+2016-06-01 03:10: Start backup table: wpyn_huge_itslider_sliders
+2016-06-01 03:10: End backup table: wpyn_huge_itslider_sliders
+2016-06-01 03:10: Start backup table: wpyn_layerslider
+2016-06-01 03:10: End backup table: wpyn_layerslider
+2016-06-01 03:10: Start backup table: wpyn_links
+2016-06-01 03:10: End backup table: wpyn_links
+2016-06-01 03:10: Start backup table: wpyn_loginizer_logs
+2016-06-01 03:10: End backup table: wpyn_loginizer_logs
+2016-06-01 03:10: Start backup table: wpyn_map_locations
+2016-06-01 03:10: End backup table: wpyn_map_locations
+2016-06-01 03:10: Start backup table: wpyn_options
+2016-06-01 03:10: End backup table: wpyn_options
+2016-06-01 03:10: Start backup table: wpyn_postmeta
+2016-06-01 03:10: End backup table: wpyn_postmeta
+2016-06-01 03:10: Start backup table: wpyn_posts
+2016-06-01 03:10: End backup table: wpyn_posts
+2016-06-01 03:10: Start backup table: wpyn_sg_schedule
+2016-06-01 03:10: End backup table: wpyn_sg_schedule
+2016-06-01 03:10: Start backup table: wpyn_term_relationships
+2016-06-01 03:10: End backup table: wpyn_term_relationships
+2016-06-01 03:10: Start backup table: wpyn_term_taxonomy
+2016-06-01 03:10: End backup table: wpyn_term_taxonomy
+2016-06-01 03:10: Start backup table: wpyn_termmeta
+2016-06-01 03:10: End backup table: wpyn_termmeta
+2016-06-01 03:10: Start backup table: wpyn_terms
+2016-06-01 03:10: End backup table: wpyn_terms
+2016-06-01 03:10: Start backup table: wpyn_usermeta
+2016-06-01 03:10: End backup table: wpyn_usermeta
+2016-06-01 03:10: Start backup table: wpyn_users
+2016-06-01 03:10: End backup table: wpyn_users
+2016-06-01 03:10: End backup database
+2016-06-01 03:10: Start backup files
+2016-06-01 03:10: Backup files: wp-content,wp-content/uploads/backup-guard/sg_backup_20160601031023/sg_backup_20160601031023.sql
+2016-06-01 03:10: Number of files to backup: 9487
+2016-06-01 03:10: Start backup file: wp-content
+2016-06-01 03:10: End backup file: wp-content
+2016-06-01 03:10: Start backup file: wp-content/uploads/backup-guard/sg_backup_20160601031023/sg_backup_20160601031023.sql
+2016-06-01 03:10: End backup file: wp-content/uploads/backup-guard/sg_backup_20160601031023/sg_backup_20160601031023.sql
+2016-06-01 03:10: End backup files
+2016-06-01 03:10: End backup
+2016-06-01 03:10: Total duration: 15.00 seconds
