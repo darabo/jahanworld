@@ -1,2 +1,4 @@
 # ignore a file type
 *.ds_store
+uploads/backup-guard/.DS_Store
+uploads/.DS_Store
